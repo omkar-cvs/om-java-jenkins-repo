@@ -17,7 +17,7 @@
 	<properties>
 		<java.version>11</java.version>
 		 <start-class>
-       		 com.oks.demo.DemoAppApplication
+       		 com.oks.jenkins.web.app.all.be.WebAppAllBeJenkinsApplication
    		</start-class>
 	</properties>
 	<dependencies>
