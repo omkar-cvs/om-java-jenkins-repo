@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.oks</groupId>
-	<artifactId>web-app-all-be-jenkins</artifactId>
+	<artifactId>WebAppJenkins</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>web-app-all-be-jenkins</name>
+	<name>WebAppJenkins</name>
 	<description>web app all be project for Spring Boot with Jenkins</description>
 	<properties>
 		<java.version>11</java.version>
